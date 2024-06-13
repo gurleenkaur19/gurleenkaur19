@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/Char.jpg" alt="Programmer" style="display: block;" height="400" width="400"></img></p>
+<p align="center"><img src="./assets/Char.jpg" alt="Programmer" style="display: block;" height="200" width="200"></img></p>
 About Me
 
 <p> 👋 I am a Frontend Developer from India/Canada.</p>
